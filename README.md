@@ -8,7 +8,7 @@ A simple calculator application built using Java and JFrame.
 - User-friendly graphical user interface (GUI) with buttons for easy interaction.
 - Clear button to reset the input and result.
 
-  ##Prerequisites
+  ## Prerequisites
   Before running this project, ensure that you have the following installed on your system:
 
 - Java Development Kit (JDK) [Download](https://www.oracle.com/java/technologies/javase-downloads.html)
