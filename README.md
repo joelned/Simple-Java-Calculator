@@ -17,7 +17,7 @@ A simple calculator application built using Java and JFrame.
 1.) Clone the repository to your local machine 
     "git clone https://github.com/joelned/gui-java-calculator"
 
-2.) Navigate to your project directory 
+2.) Navigate to your project directory (The directory where you cloned the repository)
     cd folder_name
 
 3.) Compile the java source files 
